@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="_6_sided_dice">6 Sided Dice</string>
+    <string name="_20_sided_dice">20 Sided Dice</string>
+    <string name="x_sided_dice">X Sided Dice</string>
+    <string name="result">X</string>
+    <string name="roll_the_dice">Roll the dice...</string>
+    <string name="_10_sided_dice">10 Sided Dice</string>
+</resources>
