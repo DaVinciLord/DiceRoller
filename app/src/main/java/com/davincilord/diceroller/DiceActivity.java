@@ -24,7 +24,7 @@ public class DiceActivity extends Activity implements View.OnClickListener{
         max = getIntent().getIntExtra("max", 0);
 
         TextView xSidedDice = (TextView) findViewById(R.id.x_sided_dice);
-        xSidedDice.setText(max + " Sided Dice");
+        xSidedDice.setText(getString(R.string.sided_dice, max));
 
         result = (TextView) findViewById(R.id.result);
         result.setText("");

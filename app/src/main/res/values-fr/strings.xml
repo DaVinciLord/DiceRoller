@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanceur de dé</string>
+    <string name="_6_sided_dice">Dé 6 faces</string>
+    <string name="_20_sided_dice">Dé 20 faces</string>
+    <string name="x_sided_dice">Dé X faces</string>
+    <string name="result">X</string>
+    <string name="roll_the_dice">Lancer le dé…</string>
+    <string name="_10_sided_dice">Dé 10 faces</string>
+    <string name="sided_dice">"Dé %1$d faces"</string>
+</resources>
